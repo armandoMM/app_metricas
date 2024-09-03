@@ -1,6 +1,6 @@
 # app_metricas
 
-Proyecto escolar que calcula métricas de software dado un estracto de código.
+Proyecto escolar que calcula métricas de software dado un extracto de código.
 
 ## Getting Started
 
