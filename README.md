@@ -1,6 +1,6 @@
 # app_metricas
 
-A new Flutter project.
+Proyecto escolar que calcula métricas de software dado un estracto de código.
 
 ## Getting Started
 
